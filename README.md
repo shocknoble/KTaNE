@@ -13,6 +13,7 @@ By reading this README file you recognize and accept that I am exempt from any a
 
 #### Required:
 - SikuliX 2.0.1 API (available here: https://launchpad.net/sikuli/sikulix/2.0.1/+download/sikulixapi-2.0.1.jar)
+- Manual reference number 241
 - 1920x1080 resolution
 - Fullscreen (ideally on ONE 1080 screen)
 - Accessibility Options:
