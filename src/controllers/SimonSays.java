@@ -16,10 +16,10 @@ public class SimonSays {
     public Location green = mod.selected.getCenter().below(50);
     public Location red = mod.selected.getCenter().above(20).left(50);
 
-    public Pattern blueImg = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/simon/blue.png").similar(0.90);
-    public Pattern yellowImg = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/simon/yellow.png").similar(0.90);
-    public Pattern greenImg = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references//simon/green.png").similar(0.90);
-    public Pattern redImg = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references//simon/red.png").similar(0.90);
+    public Pattern blueImg = new Pattern("simon/blue.png").similar(0.90);
+    public Pattern yellowImg = new Pattern("simon/yellow.png").similar(0.90);
+    public Pattern greenImg = new Pattern("simon/green.png").similar(0.90);
+    public Pattern redImg = new Pattern("simon/red.png").similar(0.90);
 
 
 
