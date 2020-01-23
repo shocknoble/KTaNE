@@ -8,7 +8,7 @@ public class Letter {
 
     public Pattern icon;
     public String letter;
-    private String refpath = "C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/password/";
+    private String refpath = "password/";
 
     public Letter(String letter) {
         this.letter = letter;
