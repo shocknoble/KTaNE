@@ -12,8 +12,8 @@ import static java.lang.Thread.sleep;
 
 public class Modules implements Runnable {
 
-    public  Pattern timer = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/modules//timer.png").mask().similar(0.90);
-    public  Pattern timerUR = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/modules//timerUR.png").mask().similar(0.90);
+    public  Pattern timer = new Pattern("modules//timer.png").mask().similar(0.90);
+    public  Pattern timerUR = new Pattern("modules//timerUR.png").mask().similar(0.90);
 
     public  Region game = App.focus("Keep Talking and Nobody Explodes").window();
     public  Region bomb = game.grow(-500,-460,-240,-205);
@@ -21,7 +21,7 @@ public class Modules implements Runnable {
     public  Region selected = new Region(bomb.getCenter().left(140).x,bomb.getCenter().above(157).y,290,275);
     public  Region kps = selected.grow(-15,-70,-60,-20);
 
-    public  String refpath = "C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references//modules//";
+    public  String refpath = "modules//";
     public  Pattern[] modules;;
     public  Pattern[] allModules() {
 

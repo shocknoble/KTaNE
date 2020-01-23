@@ -1,6 +1,7 @@
 package controllers;
 
 import main.Main;
+import org.sikuli.basics.Settings;
 import org.sikuli.script.*;
 
 
@@ -14,7 +15,7 @@ public class Buttons {
 
     boolean timeString = true;
     Modules mod = new Modules();
-    String refpath = "C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/button/";
+    String refpath = "button/";
     public Pattern blueabort = new Pattern(refpath+"blueabort.png").similar(.90);
     public Pattern reddetonate = new Pattern(refpath+"reddetonate.png").similar(0.90);
     public Pattern whitedetonate = new Pattern(refpath+"whitedetonate.png").similar(0.90);
@@ -97,13 +98,15 @@ public class Buttons {
 
     public String colorReader() throws InterruptedException {
         String color = "red";
-
+        float oldTimeout = Settings.AutoWaitTimeout;
+        Settings.AutoWaitTimeout = 3;
         List<Match> stripFound =  mod.selected.grow(-210,0,0,0).findAny(yellowStrip,blueStrip,whiteStrip);
         if (stripFound.size() != 0) {
             color = stripFound.get(0).getImageFilename().substring(stripFound.get(0).getImageFilename().lastIndexOf("\\")+1,stripFound.get(0).getImageFilename().indexOf("strip"));
             System.out.println("STRIP COLOR FOUND : " + color);
         }
         Thread.sleep(1650);
+        Settings.AutoWaitTimeout = oldTimeout;
         return color;
     }
 

@@ -5,6 +5,8 @@ import GUI.Queries;
 import controllers.*;
 
 import org.sikuli.basics.*;
+import org.sikuli.script.ImagePath;
+
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
@@ -25,6 +27,8 @@ public class Main {
         Settings.AutoWaitTimeout = 1f;
         Settings.HighlightTransparent = false;
         Settings.ObserveScanRate = 15f;
+        ImagePath.setBundlePath("./src/references/");
+        System.out.println(ImagePath.getBundlePath());
 
         FreePlay play = new FreePlay();
         ScheduledExecutorService timer = Executors.newSingleThreadScheduledExecutor();

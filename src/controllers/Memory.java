@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class Memory {
 
 
-    public String refpath = "C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/memory/";
+    public String refpath = "memory/";
     private Modules mod = new Modules();
     public ArrayList<Pattern> numPressed = new ArrayList<Pattern>();
     public ArrayList<Integer> numPosition = new ArrayList<Integer>();

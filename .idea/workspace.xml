@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06543b18-c93e-498d-a9ba-dd4a9211957d" name="Default Changelist" comment="" />
+    <list default="true" id="06543b18-c93e-498d-a9ba-dd4a9211957d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/GUI/Queries$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/GUI/Queries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/GUI/Queries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Buttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Buttons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/FreePlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/FreePlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Keypads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Keypads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Mazes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Mazes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Memory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Memory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Modules.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Modules.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/MorseCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/MorseCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Passwords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Passwords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/WhosOnFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/WhosOnFirst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Wires.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/controllers/Wires.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/domain/Wire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/domain/Wire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/domain/first/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/domain/first/First.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/domain/mazes/Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/domain/mazes/Maze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/main/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KTaNE-Solver/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KTaNE-Solver/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/Buttons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/Mazes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/Mazes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/Modules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/Modules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +40,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VqOS3SYUvUYkMWFSrz4T42LZLm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,12 +52,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSHKing" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.48850575" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -114,28 +145,28 @@
     </state>
     <state x="-1254" y="262" key="FileChooserDialogImpl/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579640084649" />
     <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577977305449" />
-    <state width="1877" height="202" key="GridCell.Tab.0.bottom" timestamp="1579787934656">
+    <state width="1877" height="202" key="GridCell.Tab.0.bottom" timestamp="1579803416000">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579787934656" />
+    <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579803416000" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-3840.0.1920.1040" timestamp="1578596052567" />
     <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579278039445" />
-    <state width="1877" height="202" key="GridCell.Tab.0.center" timestamp="1579787934656">
+    <state width="1877" height="202" key="GridCell.Tab.0.center" timestamp="1579803416000">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579787934656" />
+    <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579803416000" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-3840.0.1920.1040" timestamp="1578596052567" />
     <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579278039445" />
-    <state width="1877" height="202" key="GridCell.Tab.0.left" timestamp="1579787934656">
+    <state width="1877" height="202" key="GridCell.Tab.0.left" timestamp="1579803416000">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579787934656" />
+    <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579803416000" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-3840.0.1920.1040" timestamp="1578596052567" />
     <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579278039445" />
-    <state width="1877" height="202" key="GridCell.Tab.0.right" timestamp="1579787934656">
+    <state width="1877" height="202" key="GridCell.Tab.0.right" timestamp="1579803416000">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579787934656" />
+    <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579803416000" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-3840.0.1920.1040" timestamp="1578596052567" />
     <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579278039445" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1579715397058">
@@ -158,10 +189,10 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579715397058" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578406060134" />
-    <state x="-1480" y="95" width="1177" height="850" key="SettingsEditor" timestamp="1579023777013">
+    <state x="-1480" y="95" width="1177" height="850" key="SettingsEditor" timestamp="1579805588531">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1480" y="95" width="1177" height="850" key="SettingsEditor/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579023777013" />
+    <state x="-1480" y="95" width="1177" height="850" key="SettingsEditor/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579805588531" />
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1577977311326" />
     <state x="-1230" y="286" key="extract.method.dialog" timestamp="1579800608749">
       <screen x="-1920" y="0" width="1920" height="1040" />

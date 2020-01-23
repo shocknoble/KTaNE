@@ -13,7 +13,7 @@ import java.util.Stack;
 public class Mazes {
 
     public ArrayList<Maze> allMazes = new ArrayList<Maze>();
-    Pattern locator = new Pattern("C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/mazeLocator.png").mask().similar(0.90);
+    Pattern locator = new Pattern("mazeLocator.png").mask().similar(0.90);
 
     /*
 
