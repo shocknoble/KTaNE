@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 
 public class Keypad {
-    public String refpath = "C:/Users/pzpjfb/Documents/Automation/Java/Projects/KTaNE-Solver/src/references/keypads/";
+    public String refpath = "keypads/";
     public String iconPath;
     public Pattern icon;
     public String name;
