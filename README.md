@@ -1,7 +1,8 @@
 # SHoEE a.k.a Shut Up or Everyone Explodes
 #### Image Recognition Java project to complete instances of the game 'Keep Talking and Nobody Explodes'
-Video Example of a partial solve: [KTaNE Solver w/ Image Recognition](https://i.imgur.com/WeflhxZ.mp4)
+[Video Example of a partial solve](https://i.imgur.com/WeflhxZ.mp4)
 
+[2nd Example with a more impressive maze solve](https://i.imgur.com/tYULR9O.mp4)
 ## NOTICE: 
 By reading this README file you recognize and accept that I am exempt from any and all criticisms of the code contained within this repository. This is a self driven project to showcase the SikuliX library, and to push myself to actually finish a project and maintain a repository. Instructions for how to set up the game are below.
 
